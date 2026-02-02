@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "b33e67aa74d2e178",
+    "type": "split",
+    "children": [
+      {
+        "id": "942f764faf31786a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6525626ad0d08083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day01-20/01.初识Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01.初识Python"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fda75df29d0b5f2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "276459da044cf7f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ab8d80025a4bca7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "08b3ec0bd7ce8b3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6d1c8fedf3ec5685",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19bb3c068ddfed18",
+    "type": "split",
+    "children": [
+      {
+        "id": "4805663effa3e09a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfc654ca5d4c63ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day21-30/22.对象的序列化和反序列化.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "22.对象的序列化和反序列化 的反向链接列表"
+            }
+          },
+          {
+            "id": "138678a4497f7b15",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Day21-30/22.对象的序列化和反序列化.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "22.对象的序列化和反序列化 的出链列表"
+            }
+          },
+          {
+            "id": "3802de1aea1265da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e271475e91d108ca",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "9f5d96af679b4a6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day21-30/22.对象的序列化和反序列化.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "22.对象的序列化和反序列化 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "6525626ad0d08083",
+  "lastOpenFiles": [
+    "Day61-65/62.用Python获取网络资源-1.md",
+    "Day61-65/63.Python中的并发编程-1.md",
+    "Day61-65/63.并发编程在爬虫中的应用.md",
+    "Day61-65/61.网络数据采集概述.md",
+    "未命名 2.base",
+    "未命名 1.base",
+    "Day36-45/36.关系型数据库和MySQL概述.md",
+    "Day31-35/34-35.玩转Linux操作系统.md",
+    "Day31-35/32-33.Web前端入门.md",
+    "Day31-35/31.Python语言进阶.md",
+    "Day21-30/30.正则表达式的应用.md",
+    "Day31-35/res/标签属性.png",
+    "Day21-30/29.Python发送邮件和短信.md",
+    "Day21-30/28.Python处理图像.md",
+    "Day21-30/27.Python操作PDF文件.md",
+    "Day21-30/26.Python操作Word和PowerPoint文件.md",
+    "Day21-30/25.Python读写Excel文件-2.md",
+    "Day21-30/24.Python读写Excel文件-1.md",
+    "Day21-30/23.Python读写CSV文件.md",
+    "Day21-30/22.对象的序列化和反序列化.md",
+    "未命名.base",
+    "Day21-30/21.文件读写和异常处理.md"
+  ]
+}
