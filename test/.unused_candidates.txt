@@ -1,0 +1,13 @@
+Pygments
+langgraph-checkpoint
+langgraph-prebuilt
+markdown-it-py
+opentelemetry-api
+opentelemetry-exporter-otlp-proto-common
+opentelemetry-exporter-otlp-proto-grpc
+opentelemetry-proto
+opentelemetry-sdk
+opentelemetry-semantic-conventions
+protobuf
+rpds-py
+typer-slim
