@@ -4,7 +4,6 @@ import requests
 API_URL = "http://127.0.0.1:8000/chat/stream"
 
 st.set_page_config(page_title="Neko RAG",
-                   page_icon="C:/Users/BTxin/Pictures/logo/neko rag.jpg",
                    layout="centered")
 st.title("🤖 Neko RAG 聊天")
 
